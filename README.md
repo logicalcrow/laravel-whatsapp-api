@@ -13,7 +13,7 @@ A Laravel package for the [Whatsapp Business Cloud API](https://developers.faceb
 ## Installation
 
 ```bash
-composer require missael-anda/laravel-whatsapp
+composer require logicalcrow/laravel-whatsapp-api
 ```
 
 ## Configuration
